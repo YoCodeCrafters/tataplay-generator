@@ -13,7 +13,7 @@ This script generates m3u playlist for all the channels in TATAPLAY ott app usin
 - 1st download and install KSWEB apk and open it.
 - Download this repo 
 ```bash
-https://github.com/YoCodeCrafters/tataplay-m3u/archive/refs/heads/main.zip
+https://github.com/YoCodeCrafters/tataplay-generator/archive/refs/heads/main.zip
 ```
 - Extract the files in
 ```bash
@@ -29,7 +29,7 @@ http://127.0.0.1:8080/tataplay/
 ## Host on any php based webhost 🌐
 - Download this repo 
 ```bash
-https://github.com/YoCodeCrafters/tataplay-m3u/archive/refs/heads/main.zip
+https://github.com/YoCodeCrafters/tataplay-generator/archive/refs/heads/main.zip
 ```
 - Upload and extract the files in
 ```bash
